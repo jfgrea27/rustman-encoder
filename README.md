@@ -1,0 +1,1 @@
+# Huffman encoder in rust
